@@ -1,1 +1,1 @@
-# tanslations
+this is translation files
